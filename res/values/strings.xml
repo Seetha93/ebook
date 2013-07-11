@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eBookR</string>
+    <string name="version">1.0</string>
+    
+    <string name="cancel">Cancel</string>
+    <string name="search_backwards">Search backwards</string>
+    <string name="search_forwards">Search forwards</string>
+    <string name="search_document">Search document</string>
+    <string name="outline_title">Table of Contents</string>
+    
+    <string name="text_not_found">Text not found</string>
+    <string name="searching_">Searching...</string>
+    <string name="select">Select</string>
+    
+    
+    <string name="strike_out">Strike out</string>
+    
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
